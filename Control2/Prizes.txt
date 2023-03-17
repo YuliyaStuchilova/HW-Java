@@ -1,0 +1,2 @@
+id=2, name='Машинка', amount=2, chance=20
+id=3, name='Мягкая игрушка', amount=6, chance=70
